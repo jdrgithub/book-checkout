@@ -2,8 +2,6 @@
 
 This is a simple **Library Checkout System** built in Python using object-oriented programming principles. It simulates library operations including user creation, book management, lending and returns, and includes a full test suite using `unittest`.
 
-Originally written as part of a technical interview, this project has been expanded into a clean, testable, and extensible demo.
-
 ---
 
 ## Features
